@@ -13,7 +13,7 @@ Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments 
 
 1. Clonez le dépôt :
    ```sh
-   git clone https://github.com/votre-utilisateur/article-front.git
+   git clone https://github.com/Merite15/ArticleFront
    ```
 2. Accédez au dossier du projet :
    ```sh
